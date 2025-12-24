@@ -45,7 +45,7 @@
                     <a class="nav-link" href="viewalljobs">All Jobs</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://telusko.com/">Contact</a>
+                    <a class="nav-link" href="https://sayan-ghosh-183545.github.io/Personal-Portfolio-Website/">Contact</a>
                 </li>
             </ul>
         </div>
